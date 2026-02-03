@@ -9,3 +9,4 @@
 *.fls
 *.tex.bak
 *.pdf
+.claude/settings.local.json
